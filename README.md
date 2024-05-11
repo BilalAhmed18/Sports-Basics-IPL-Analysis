@@ -16,6 +16,6 @@ Sports Basics is a sports blog company that recently entered the space of sports
 
 ## Dashboard
 
-Explore our interactive dashboard for in-depth analysis and visualizations: [Sports Basics IPL Dashboard](https://lnkd.in/g3FFjWC7)
+Explore our interactive dashboard for in-depth analysis and visualizations: [Sports Basics IPL Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTdlYTQxNzYtNjQ2MS00YmFjLTg4ZWQtOTFhMzJlNTY3YjQ5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 Thank you for visiting Sports Basics IPL Analysis repository! Enjoy exploring the exciting world of IPL cricket with us. 🏏📊
